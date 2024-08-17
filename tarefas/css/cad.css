@@ -1,0 +1,27 @@
+.form{
+    margin-left: 33.3%;
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 29.3%;
+    border-radius: 7px;
+    margin-top: 25px;
+    padding-top: 13px;
+    
+}
+form input{
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-left: 24%;
+
+}
+h3{
+    text-align: center;
+    font-size: 10px;
+}
+.add{
+    margin-left: 13%;
+}
+ form label{
+    margin-left: 25%;
+}
