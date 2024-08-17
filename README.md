@@ -19,6 +19,7 @@ Este projeto ainda está em fase de desenvolvimento. Novas funcionalidades estã
 
 - **HTML5**: Estruturação e formatação das páginas.
 - **CSS3**: Estilização e layout das interfaces.
+- **Bootstrap**: Framework para design responsivo e estilização de interfaces.
 - **PHP**: Lógica de back-end e manipulação de dados.
 - **MySQL**: Banco de dados relacional para armazenamento de informações.
 
